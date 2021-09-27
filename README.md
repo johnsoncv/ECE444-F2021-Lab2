@@ -19,6 +19,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flask
 
 # ACTIVITY 4
 
+<img width="918" alt="Screen Shot 2021-09-26 at 23 24 31" src="https://user-images.githubusercontent.com/48742114/134841111-67484f8b-786b-4021-b9a2-fdfb1f95290c.png">
+
+
+<img width="926" alt="Screen Shot 2021-09-26 at 23 07 17" src="https://user-images.githubusercontent.com/48742114/134840866-8e936844-8bbb-4b84-b449-e5fcd0602e44.png">
 
 <img width="918" alt="Screen Shot 2021-09-26 at 23 07 58" src="https://user-images.githubusercontent.com/48742114/134840470-84b7d979-f5c4-4409-aa0f-c9777b23b3b9.png">
 
